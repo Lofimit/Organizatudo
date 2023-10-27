@@ -56,6 +56,7 @@
             "psd",
             "sketch",
             "xd",
+            "xdx",
             "fig",
             "indd",
             "pdd",
@@ -114,6 +115,7 @@
             "py",
             "js",
             "html",
+            "htm",
             "css",
             "php",
             "swift",
@@ -218,6 +220,7 @@
         ],
         "imageExtensions": [
             "jpg",
+            "woff2",
             "jpeg",
             "png",
             "gif",
