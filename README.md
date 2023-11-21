@@ -31,6 +31,10 @@ You can customize the categories and folder names in the `config.json` file.
 
 If you want to contribute to this project, feel free to open an issue or create a pull request. We welcome contributions from the community!
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Author
 
 Discord: `king.sz`
