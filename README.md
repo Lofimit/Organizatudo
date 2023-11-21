@@ -9,15 +9,15 @@
 
 ## Installation
 
-To get started, you can install Organizatudo using npm:
+To get started, you can download Organizatudo using the following link:
 
 ```
-npm install -g https://github.com/Lofimit/Organizatudo#organizatudo
+[Download Link](https://github.com/Lofimit/Organizatudo/archive/refs/heads/main.zip)
 ```
 
 ## Usage
 
-After installation, you can run Organizatudo by simply executing the following command:
+After downloading and extracting, you can run Organizatudo by simply executing the following command:
 
 ```
 node main.js
