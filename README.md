@@ -12,7 +12,7 @@
 To get started, you can download Organizatudo using the following link:
 
 ```
-[Download Link](https://github.com/Lofimit/Organizatudo/archive/refs/heads/main.zip)
+https://github.com/Lofimit/Organizatudo/archive/refs/heads/main.zip
 ```
 
 ## Usage
